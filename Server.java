@@ -39,13 +39,7 @@ public class Server {
             if (r==2)
                 System.out.println(j);
         }          
-/*
-            if ((x%i!=0 && i%2!=0) || i==2  )
-             {
-                
-                    System.out.println(i);  
-            }
-               */
+
 
         // Close in / out
         inServer.close();
